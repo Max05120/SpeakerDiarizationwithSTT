@@ -2,6 +2,8 @@
 
 Project to combine VAD, Speaker Diarization, Speech Recognition together.
 
+
+
 ## Getting Started
 
 As DeepSpeech pre-trained English model is too big to commit to git. You could download from 
@@ -55,6 +57,7 @@ The test wavs in the wavs folder are from movie sound clips. The speech accuracy
 - webrtcvad
 - deepspeech
 
+
 ## References
 
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech)
@@ -64,6 +67,7 @@ The test wavs in the wavs folder are from movie sound clips. The speech accuracy
 - [librosa](https://github.com/librosa/librosa)
 - [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
 - [kaldi](https://github.com/kaldi-asr/kaldi)
+- [terry-yip](https://github.com/terry-yip)
 
 ### Tip
 
